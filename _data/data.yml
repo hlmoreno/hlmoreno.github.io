@@ -122,7 +122,6 @@ experiences:
         - Requirements gathering and time and cost estimation for the POS payment and biometric ID solutions.
         - Issue tracking and customer meetings.
         - Technical support on issue solving on developments (TLS/EFTSEC communications, ISO8583 messaging, Chip and Contactless EMV, Mifare Classic y Plus, mPOS telecharge)
-
     - role: XAMARIN Technical Leader
       time: 2017 - 2019
       company: WM Wireless & Mobile
@@ -132,7 +131,6 @@ experiences:
           - Saleforce (taking orders)
           - Fixed assets
           - Schedule of medical appointments
-
     - role: RFID – IoT  Investigation Group Leader 
       time: 2017 - 2018
       company: WM Wireless & Mobile
@@ -140,7 +138,6 @@ experiences:
         - LPWA networks research (LoRA, Sigfox, NB, LTE-m) for IoT
         - SDK research for RFID readers and beacons detection.
         - Providers contact for buying development kits
-
     - role: Mobile Development Technical Leader
       time: 2014 - 2017
       company: WM Wireless & Mobile
@@ -148,36 +145,38 @@ experiences:
         - Leader of the Windows Mobile development team.
         - Advisory and support for the development team working in Windows Mobile development projects.
         - Development time estimation for comercial proposals. 
-
     - role: SAP Mobile Architect and Consultant
       time: 2011 - 2014
       company: WM Wireless & Mobile
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          - Bullet point
-          - Bullet point
+        - Solution deployment using SUP and SMP platforms by SAP with integrations to the ERP.
+        - Participation in different projects:
+          - Sales force: Agrosuper 
+          - Document approval workflow: Postobon, Pacific Rubiales, WM internal project
+          - Field workforce: Pacific Rubiales
+          - Warehouse management: Pacific Rubiales
+          - Onsite billing: Codensa, WM internal project
+          - Dashboards, reports: Lumina Copper
     - role: Development Engineer
       time: 2004 - 2010
       company: WM Wireless & Mobile
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          - Bullet point
-          - Bullet point
+        - Apps development for mobile devices with Windows Pocket PC 2002, Pocket PC 2003, WM5 , CE 5.0, WM6 and WM6.5
+        - Participation in different projects:
+          - Utilities – public services: Codensa, EEC, EPM, EPSA, Electricaribe, Aguas Kpital
+          - Courier: TCC, servientrega, Chilexpress, Promail
+          - Sales force: Postobon, Representaciones Continental, Ramo
+          - Goverment: ACR
+          - Ticket management: Thomas&Greg
+          - Kiosks: Alkosto, Makro, Cafam
     - role: Part-Time Professor
       time: 2017 - 2011
       company: Javeriana University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          - Bullet point
-          - Bullet point
-
-
+        - Professor of Digital Machines subject for Systems engineering career.
+        - The subject’s objective is showing an electronical approach of the PC components operation (processors, memories, peripherals)
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Design patterns
         level: 80%
