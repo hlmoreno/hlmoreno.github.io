@@ -1,0 +1,38 @@
+{% assign certifications = site.data.data.certifications %}
+{% if certifications %}
+<section class="section certifications-section">
+    <h2 class="section-title">
+        <span class="fa-stack fa-xs">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fas fa-certificate  fa-stack-1x fa-inverse"></i>
+        </span>
+        Courses and Certifications
+    </h2>
+
+    {% for certificate in certifications %}
+    <div class="item">
+        <div class="meta">
+
+            <div class="upper-row">
+                <h3 class="institution">{{ certificate.institution }}</h3>
+                <div class="time">{{ certificate.time }}</div>
+            </div>
+            <!--//upper-row-->
+
+        </div>
+        <!--//meta-->
+        <div class="details">
+            <ul>
+        {% for course in certificate.courses %}
+        
+            <li>{{ course.name }}</li>
+
+        <!--//details-->
+        {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <!--//item-->
+    {% endfor %}
+</section><!--//section-->
+{% endif %}

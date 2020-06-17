@@ -1,0 +1,188 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False
+    education: True
+
+    # Profile information
+    name: Henry Moreno
+    tagline: Cloud Engineer in progress...
+    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: hlmoreno@gmail.com
+    phone: #
+    website: hlmoreno.github.io #do not add http://
+    linkedin: hlmoreno
+    github: hlmoreno
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@eichelemdi'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Spanish
+        level: Native
+      - idiom: English
+        level: Professional - C1 level
+
+    interests:
+      - item: Movies & TV series
+        link:
+
+      - item: Internet
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: MSc in Electronic Engineer
+      university: Javeriana University - Bogot&aacute;
+      time: 2008
+      details: 
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Electronic Engineer
+      university: Javeriana University - Bogot&aacute;
+      time: 2005
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+certifications:
+    - institution: Coursera
+      courses:
+        - name: Google Cloud Platform Fundamentals&#58; Core Infrastructure
+        - name: Essential Google Cloud Infrastructure&#58; Foundation
+        - name: Essential Google Cloud Infrastructure&#58; Core Services
+        - name: Elastic Google Cloud Infrastructure&#58; Scaling and Automation
+      time: 2020
+    - institution: Platzi
+      courses:
+        - name: Software Architecture Fundamentals
+        - name: Software Architecture Professional Course
+        - name: Google Cloud Platform Fundamentals
+        - name: Google App Engine Course
+      time: 2020
+    - institution: ITERA PROCESS
+      courses:
+        - name: Scrum Master Course
+      time: 2016
+    - institution: ACIEM Bogot&aacute;
+      courses:
+        - name: IoT Business Course
+      time: 2015
+    - institution: SENA – FEDESOFT – SEONTI
+      courses:
+        - name: ›	Personal Software Process (PSP) Fundamentals
+      time: 2011
+experiences:
+    - role: Financial and Biometric apps Technical Leader
+      time: 2019 - 2020
+      company: WM Wireless & Mobile
+      details: |
+        - Leader of the Financial apps development team (PAX Prolin and Android) and biometric identification (Bluebird – Identica)
+        - Requirements gathering and time and cost estimation for the POS payment and biometric ID solutions.
+        - Issue tracking and customer meetings.
+        - Technical support on issue solving on developments (TLS/EFTSEC communications, ISO8583 messaging, Chip and Contactless EMV, Mifare Classic y Plus, mPOS telecharge)
+
+    - role: XAMARIN Technical Leader
+      time: 2017 - 2019
+      company: WM Wireless & Mobile
+      details: |
+        - Research and development of Xamarin apps (Android, iOS y Forms)
+        - Presentation to the company managers of the Xamarin benefits for multiplatform apps development starting three projects:
+          - Saleforce (taking orders)
+          - Fixed assets
+          - Schedule of medical appointments
+
+    - role: RFID – IoT  Investigation Group Leader 
+      time: 2017 - 2018
+      company: WM Wireless & Mobile
+      details: |
+        - LPWA networks research (LoRA, Sigfox, NB, LTE-m) for IoT
+        - SDK research for RFID readers and beacons detection.
+        - Providers contact for buying development kits
+
+    - role: Mobile Development Technical Leader
+      time: 2014 - 2017
+      company: WM Wireless & Mobile
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          - Bullet point
+          - Bullet point
+    - role: SAP Mobile Architect and Consultant
+      time: 2011 - 2014
+      company: WM Wireless & Mobile
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          - Bullet point
+          - Bullet point
+    - role: Development Engineer
+      time: 2004 - 2010
+      company: WM Wireless & Mobile
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          - Bullet point
+          - Bullet point
+    - role: Part-Time Professor
+      time: 2017 - 2011
+      company: Javeriana University
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          - Bullet point
+          - Bullet point
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: Beginner
+
+      - name: Javascript & jQuery
+        level: Beginner
+
+      - name: Angular
+        level: Advanced
+
+      - name: HTML5 & CSS
+        level: Advanced
+
+      - name: Ruby on Rails
+        level: Intermediate
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
