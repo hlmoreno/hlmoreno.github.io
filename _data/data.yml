@@ -86,7 +86,16 @@ certifications:
         - name: Software Architecture Fundamentals
         - name: Software Architecture Professional Course
         - name: Google Cloud Platform Fundamentals
+        - name: Google Compute Engine Course
         - name: Google App Engine Course
+        - name: Google Kubernetes Engine Course
+        - name: Google Serverless Course
+        - name: Git and Github Course
+        - name: Databases Fundamentals
+      time: 2020
+    - institution: SCRUMstudy
+      courses:
+      - name: Scrum Fundamentals Certified
       time: 2020
     - institution: ITERA PROCESS
       courses:
@@ -98,8 +107,12 @@ certifications:
       time: 2015
     - institution: SENA – FEDESOFT – SEONTI
       courses:
-        - name: ›	Personal Software Process (PSP) Fundamentals
+        - name: Personal Software Process (PSP) Fundamentals
       time: 2011
+    - institution: HONEYWELL
+      courses:
+        - name: Honeywell Scanning and Mobility Technical Training
+      time: 2009
 experiences:
     - role: Financial and Biometric apps Technical Leader
       time: 2019 - 2020
@@ -132,10 +145,10 @@ experiences:
       time: 2014 - 2017
       company: WM Wireless & Mobile
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          - Bullet point
-          - Bullet point
+        - Leader of the Windows Mobile development team.
+        - Advisory and support for the development team working in Windows Mobile development projects.
+        - Development time estimation for comercial proposals. 
+
     - role: SAP Mobile Architect and Consultant
       time: 2011 - 2014
       company: WM Wireless & Mobile
@@ -166,23 +179,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: Beginner
-
-      - name: Javascript & jQuery
-        level: Beginner
-
-      - name: Angular
-        level: Advanced
-
-      - name: HTML5 & CSS
-        level: Advanced
-
-      - name: Ruby on Rails
-        level: Intermediate
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Design patterns
+        level: 80%
+      - name: Google Cloud
+        level: 90%
+      - name: Azure
+        level: 40%
+      - name: AWS
+        level: 0%
+      - name: Devops
+        level: 40%
+      - name: C/C++/C#
+        level: 80%
+      - name: HTML/CSS
+        level: 80%
+      - name: Python
+        level: 10%
 
 footer: >
     Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
