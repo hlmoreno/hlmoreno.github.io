@@ -44,7 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Electronic engineer with orientation and interest  of digital systems, software design, hardware design, and communications. Knowledge of software architecture and mobile devices programming in different programming languages. Experience in handling Windows, Linux, MacOSX and Android operating systems. Cloud Engineer and DevOps in training over GCP and Azure.
+      Electronic engineer with orientation and interest  of digital systems, software design, hardware design, and communications. 
+      Knowledge of software architecture and mobile devices programming in different programming languages. Experience in handling Windows, Linux, MacOSX and Android operating systems.<br><br>
+      Cloud Engineer and DevOps in training over GCP and Azure.
       Ability to analyze problems and search for efficient solutions, willingness to assume responsibilities, teamwork, leadership of the developers team and carrying out teaching tasks.
 education:
     - degree: MSc in Electronic Engineer
